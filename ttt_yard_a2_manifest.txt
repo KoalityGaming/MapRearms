@@ -1,0 +1,9 @@
+particles_manifest
+{
+	"file"	"!particles/ttt_yard_particles.pcf"
+}
+
+soundscapes_manifest
+{
+	"file"	"!scripts/soundscapes_ttt_yard_a2.txt"
+}

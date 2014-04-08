@@ -1,0 +1,14 @@
+# Trouble in Terrorist Town weapon/ammo placement overrides
+# For map: dm_toon_town
+# Exported by: .:GOF:. PAL-18
+setting:	replacespawns 0
+ttt_playerspawn	1136.6572 -1438.6122 -1190.5698	-0.028 -0.000 0.028
+ttt_playerspawn	1199.3185 -1339.0922 -1190.5668	0.027 0.000 0.027
+ttt_playerspawn	1338.5803 -1289.6854 -1190.5601	0.003 0.043 0.134
+ttt_playerspawn	1464.7769 -1337.0438 -1190.5916	-0.037 -0.000 0.037
+ttt_playerspawn	1549.4724 -1433.0134 -1190.6018	-0.041 -0.000 0.041
+ttt_playerspawn	1231.2789 -1438.1945 -1190.5753	-0.030 -0.000 0.030
+ttt_playerspawn	1294.5233 -1372.4987 -1190.6166	-0.047 -0.000 0.047
+ttt_playerspawn	1378.8379 -1374.3344 -1190.5619	-0.025 -0.000 0.025
+ttt_playerspawn	1467.1389 -1433.4915 -1190.5776	-0.031 -0.000 0.031
+ttt_playerspawn	1339.0117 -1454.3563 -1190.5658	-0.026 -0.000 0.026

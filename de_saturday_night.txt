@@ -1,0 +1,20 @@
+Map by: Dr.Boo
+Name: de_saturday_night
+Type: Bomb/Diffuse
+
+Map Description:
+
+ood nrg fxpih ga btrf zblbltrtf (this describes the map perfectly... for real!)
+
+Special Thanks:
+
+-The Joe.to (J2) community: any beginning mapper for CS should DEFENITELY register over there. The forums has tons of talented mappers and tons of mapping info
+http://www.joe.to
+-NIPPER: for a couple of his sounds he let me use
+-The Kingpin and the Bagelshack servers which are still my favorite CS 1.6 servers.
+http://www.thekingpin.net
+http://www.thebagelshack.net
+-the NIPPER Source maps server, which is a server that plays other things than those gay official maps.
+http://www.joe.to
+
+Note: This map was created for the J2 Abstract Map Pack of 2006. Check out the other maps too!

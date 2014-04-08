@@ -1,0 +1,16 @@
+# Trouble in Terrorist Town weapon/ammo placement overrides
+# For map: dm_crossfire_source
+# Exported by: .:GOF:. PAL-18
+setting:	replacespawns 0
+ttt_playerspawn	-952.8538 372.9132 -1695.5902	-0.036 -0.000 0.036
+ttt_playerspawn	-893.3372 369.9362 -1695.5879	-0.136 -0.054 0.031
+ttt_playerspawn	-824.3823 365.9213 -1695.5637	-0.026 -0.000 0.026
+ttt_playerspawn	-852.5392 433.8141 -1695.5973	-0.039 -0.000 0.039
+ttt_playerspawn	-921.1174 432.2863 -1695.5850	-0.034 -0.000 0.034
+ttt_playerspawn	-883.8037 495.0228 -1695.5815	-0.135 0.024 -0.027
+ttt_playerspawn	-710.2706 954.0323 -1695.5427	-0.000 1.657 -0.135
+ttt_playerspawn	-705.9916 1013.1342 -1692.1241	-10.898 1.917 0.088
+ttt_playerspawn	-691.9161 1069.9137 -1695.5973	-0.039 -0.000 0.039
+ttt_playerspawn	-768.7584 1046.0968 -1695.5254	-0.081 1.111 0.001
+ttt_playerspawn	-757.0167 980.8477 -1695.5820	-0.174 -0.031 -0.010
+ttt_playerspawn	-816.9634 1010.5330 -1695.6097	-0.044 -0.000 0.044

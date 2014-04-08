@@ -1,0 +1,176 @@
+                        _____      __                            __
+ _  www.Ønline.net  __ / _  /_  __/ /  ____  _____   __  _____  / /
+| |/|/ / |/|/ / |/|/ // // /  \/ / /__/ /  \/ / -_|_/  \/ / -_|/ _/
+|__,__/|__,__/|__,__(_)___/_/\__/____/_/_/\__/\__/(_)/\__/\__//_/
+Un site tout en conneries par moi-même. mukuk mukuk.
+
+
+-|-------------------------------------------------------------------|-
+-|- DM_TROPIC_STUNT -------------------------------------------------|-
+-|-------------------------- Par NykO18 -----------------------------|-
+-|-------------------------------------------------------- 28/09/06 -|-
+-|-------------------------------------------------------------------|-
+
+
+
+-|-------------------------------------------------------------------|-
+-|- I ------------------------------------------------ INSTALLATION -|-
+-|-------------------------------------------------------------------|-
+ 
+ 
+ Dézippez tout simplement le contenu entier du ZIP dans le dossier :
+ ...\Steam\SteamApps\<login>\half-life 2 deathmatch\hl2mp\maps\
+ 
+ Le fichier .bsp contient la map en elle même.
+ Le fichier .txt contient la description de la map.
+ 
+ Lancez ensuite Half-Life 2 Deathmatch, créez une partie ou joignez en
+ une qui tourne sur dm_tropic_enhanced et profitez bien de l'expérience.
+ Vous pouvez également jouer sur cette map via le Garry's Mod et tout
+ un tas d'autres Mods compatibles.
+ 
+ 
+-|-------------------------------------------------------------------|-
+-|- II ------------------------------------------------ DESCRIPTION -|-
+-|-------------------------------------------------------------------|-
+ 
+ 
+ L'action se déroule sur un tout petit atoll des tropiques.
+ Un affleurement de 4 îlots tous différents les uns des autres.
+  - Une petite jungle pour l'un avec un hangar à bateaux
+  - Un relai de communication pour un autre
+  - Un gros rocher surplombant la map pour le troisième
+  - Et une île avec une tente et une cabane pour la dernière
+ 
+ Cette map est une variante "stunt" de la map dm_tropic_enhanced.
+ Le but est simple, soit vous gagnez la partie en faisant des frags
+ "à l'ancienne", soit vous augmentez votre score en réalisant des figures
+ avec l'aéroglisseur. Il y a environ 25 anneaux de couleur sur la map...
+ passer dans un anneau avec l'aéroglisseur offre un certain nombre de
+ points en fonction de la difficulté du saut à réaliser pour atteindre
+ l'anneau :
+  - Anneau bleu = 1 ou 2 points
+  - Anneau rouge = 3 ou 4 points
+  - Anneau jaune = 5 points ou plus 
+ 
+ Pour toute suggestion/commentaire : NykO.18{@}club-internet{.}fr
+ 
+ 
+-|-------------------------------------------------------------------|-
+-|- III ----------------------------------------------- MISE A JOUR -|-
+-|-------------------------------------------------------------------|-
+ 
+ Après avoir complètement relifté dm_mine en dm_mine_enhanced pour
+ améliorer la qualité graphique avec mes compétences actuelles, j'ai
+ eu très envie de faire la même chose avec ma deuxième meilleure map
+ (selon les critiques). Ca m'a fait du bien de changer un peu d'air
+ et j'ai finalement changé beaucoup plus de choses que ce que j'aurais
+ pensé changer au départ.
+ 
+ Puis, en constatant l'engouement des joueurs à faire n'importe quoi
+ avec les aéroglisseurs, j'ai décidé d'en faire une variante "stunt"
+ permettant de mettre à l'épreuve les capacités des joueurs à faire
+ des sauts maîtrisés avec leurs engins.
+ 
+ 
+-|-------------------------------------------------------------------|-
+-|- IV -------------------------------------------------- PROBLEMES -|-
+-|-------------------------------------------------------------------|-
+
+
+ La carte est relativement complexe et a été difficile à optimiser car
+ il y a très peu de choses permettant de bloquer la visibilité. Une
+ bonne configuration, ou un ajustement de la qualité graphique seront
+ à prévoir si vous avez une petite config.
+ 
+ Le HDR est également assez violent, et peut drastiquement faire chuter
+ les performances. Comme sur toutes les maps remarquez. Il suffit de le
+ désactiver s'il pose problème.
+ 
+ Il est également probable que la map ne soit pas compatible avec des
+ configurations DirectX 8 ou inférieures. Le HDR n'étant pas complètement
+ implémenté dans HL2DM, c'est plutôt du bricolage qu'autre chose.
+
+ Au cas ou vous trouvez un bug non repertorié envoyez moi un email à
+ - NykO.18{@}club-internet{.}fr
+
+
+-|-------------------------------------------------------------------|-
+-|- V ---------------------------------------------------- VERSIONS -|-
+-|-------------------------------------------------------------------|-
+ 
+ 
+ BETA 2 (17/04/05)
+ - Correction des respawn foireux
+ - Changement de la taille d'une texture
+ - Remplacement de plusieurs textures parfois trop claires ou sombres
+ - Ajout de tous les models, pour éviter les ERROR
+ - Correction sur les 2 tuyaux pas assez longs le long de la falaise
+ - Ajout de quelques munitions
+ 
+ BETA 3 (18/04/05)
+ - Lancement des sons de machinerie en surface au démarrage
+ - Supression de l'environement orageux (bug de pluie + perfs)
+ - Ajout de quelques sons d'ambiance
+ - Correction de la grue non-solide pour la voiture suspendue
+ - Ajout d'un hack sur la porte d'entrée pour éviter qu'elle colle (lol)
+ - Ajout d'un élément du décor qui manquait
+ - Augmentation du rayon de certains sons
+ - Correction de la surface de l'océan
+ 
+ VERSION 2 (15/09/06)
+ - Ajout d'un hangar à aéroglisseur contenant un aéroglisseur
+   (cela permet de dynamiser un peu le gameplay et éviter que celui
+   qui contrôle le bateau contrôle la map entière avec le lance-missile)
+ - Ajout de HDR ou Bloom pour les moins chanceux
+ - Reconstruction complète de la skybox 3D
+ - Ajout de vagues autour des îlots
+ - Changement de la texture d'eau pour une texture plus belle et plus claire
+ - Changement des textures de sable et de roche pour des beaucoup
+   plus tropicales que les originales
+ - Suppression de la plupart des arbres et remplacement par des palmiers
+ - Amélioration globale de l'éclairage et du soleil
+ - Changement du skin des rochers pour faire plus tropical
+ - Réduction de lightmap pour faire des ombres plus fines
+ - Suppression et repositionnage complet des armes et munitions
+ - Ajout d'une distance de disparition aux armes et munitions
+   (disponible depuis la mise à jour pour Episode 1)
+ - Suppression des effets de lumière volumétrique moches dans la cabane
+ - Ajout de noix de coco à balancer (super important ca XD)
+ - Ajout d'un bateau échoué
+ - Ajout d'easter eggs un peu partout (cherchez bien)
+ - Ajout d'effets météo, de brouillard d'horizon et de lumière volumétrique
+ - Correction du respawn corrompu de certains items et armes
+ - Ajout de détails et de models 3D un peu partout
+ - Amélioration de l'ambiance sonore
+ - Amélioration drastique du skybox 3D et en particu
+ - Réoptimisation légère de l'ensemble de la map (mais difficile de faire mieux)
+ - Ajout de ma signature pour que la map arrête d'être plagiée
+ - Correction d'une quantité astronomique de bugs divers, de displacements
+   mal collés, d'armes ou objets qui volaient et ajout de points de spawn 
+ - Et tout un tas d'autres trucs que j'ai sûrement oubliés
+ 
+ VERSION STUNT (28/09/06)
+ - Aménagement de la map en "stuntpark"
+ - Création d'un système de distribution d'aéroglisseur
+ - Suppression de quelques détails pour atténuer la perte de FPS due aux anneaux
+
+ 
+-|-------------------------------------------------------------------|-
+-|- VI ------------------------------------------------------ MERCI -|-
+-|-------------------------------------------------------------------|-
+
+ - *MoroeS* et Alucard Pour les tests, les conseils, les aides et certaines textures
+    -> MoroeS     : http://membres.lycos.fr/darkstar15/
+    -> Alucard_DH : http://alucardmapping.halflifexpert.com/
+ 
+ - Les développeurs de Dark Messiah pour les textures que j'ai honteusement volées
+   (mais c'est pour la bonne cause hein)
+ - mapping-area.com en général pour les conseils & aides
+ - Shiroko (faq.dune2k.com) pour les models d'arbres et rochers
+ - cheroketeam.savana.cz pour certains des models de la map
+  
+   Désolé si j'en oublie...
+
+
+-|-------------------------------------------------------------------|-
